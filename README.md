@@ -1,4 +1,4 @@
-# Exercises: Creating Database and Tables
+# Creating Database and Tables
 
 This exercise is preparation for the next exercises. You will need these tables in the following exercises. You can use MySQL Workbench.
 
